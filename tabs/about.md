@@ -20,7 +20,7 @@ title: About
 
 [Bearchild](https://www.cnblogs.com/bearchild/)
 
-[Begay](https://qq763647200.github.io/)
+[Begay](https://blog.csdn.net/qq_33229466) 
 
 [Naiqian Zheng](https://blog.zhengnq.top)
 

@@ -8,6 +8,10 @@ math: true
 
 # 写作测试
 
+## 音乐测试
+
+失败了。
+
 ## 公式测试 
 
 $$\frac{\int_0^{+\infty}\frac{\tau^{-4N-1}}{e^{\frac{1}{\tau}}-1}\mathrm d \tau}{(\int_0^{+\infty}\frac{\tau^{-2N-1}}{e^{\frac{1}{\tau}}-1}\mathrm d \tau)^2}$$

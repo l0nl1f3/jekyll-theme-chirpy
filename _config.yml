@@ -10,7 +10,7 @@
 
 title: Chouti's blog                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: "Imagination is the essence of discovery."  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -27,8 +27,8 @@ avatar: /assets/img/sample/avatar.jpg   # support internet resources
 github:
   username: l0nl1f3             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+# twitter:
+#   username: twitter_username            # change to your twitter username
 
 social:
   name: Chouti                  # it will shows as the copyright owner in Footer

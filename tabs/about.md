@@ -14,6 +14,8 @@ title: About
 
 曾用博客 [Github Page](https://l0nl1f3.github.io/) (因为丢失文件无法更新了)
 
+战网 id 未名丨抽屉#5148
+
 # 朋友们
 
 朋友们在原博客留的友链大多不更新了 T_T ，就不搬过来了

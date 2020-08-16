@@ -55,8 +55,8 @@ def f(x, y):
 
 ## 文件测试
 
-单击[这里](/assets/tom.gif)获得神秘gif一张
+单击[这里](/assets/img/tom.gif)获得神秘gif一张
 
-点击[这里](/assets/jhy.jpg) 获得金爷头像一张 
+点击[这里](/assets/img/jhy.jpg) 获得金爷头像一张 
 
 **今年的份更完啦~**

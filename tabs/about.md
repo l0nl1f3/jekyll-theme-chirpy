@@ -25,7 +25,7 @@ title: About
 
 [Begay](https://blog.csdn.net/qq_33229466) 
 
-[Huiping Lin](lhp-pku.top)
+[Huiping Lin](http://lhp-pku.top)
 
 [Naiqian Zheng](https://blog.zhengnq.top)
 
